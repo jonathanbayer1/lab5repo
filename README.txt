@@ -1,3 +1,3 @@
 Jonathan Bayer
-partner: Juan Fran Ferrer
 lab 5
+PARTNER: Juan Fran Ferrer
