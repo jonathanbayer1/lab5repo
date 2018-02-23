@@ -1,6 +1,8 @@
-Jonathan Bayer
-Partner: juan Fran Ferrer
-lab 5
+Lab5:
+
+Author: Jonathan Bayer
+PARTNER: Juan Fran Ferrer-Peasley
 
 This might cause a merge conflict
-merge conflict attempt number two
+
+This caused a merge conflict!
